@@ -197,32 +197,6 @@ The final machine learning model successfully identified the strongest drivers o
 - Business growth initiatives
 
 
----
-
-## Repository Structure
-
-```text
-├── data/
-│   └── bike_rental.csv
-│
-├── notebooks/
-│   └── bike_rental_analysis.ipynb
-│
-├── images/
-│   ├── boxplots.png
-│   ├── correlation_matrix.png
-│   └── prediction_results.png
-│
-├── presentation/
-│   └── Bike Rental Business - Capstone.pdf
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
